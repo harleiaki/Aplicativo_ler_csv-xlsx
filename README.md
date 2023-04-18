@@ -14,7 +14,7 @@ Um simples resumo do uso/propósito do projeto.
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
 
 ### Link para a aplicação (LIVE)
-https://telemarketing.onrender.com/
+https://harleiaki-telemark-app-7-iq97r5.streamlit.app/
 
 ## Utilização
 
@@ -48,7 +48,7 @@ comando para rodar se o programa tiver uma informação de ajuda
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
 ex. Harlei
-ex. https://harleiaki-telemark-app-7-iq97r5.streamlit.app/
+ex. https://www.linkedin.com/in/harlei-akira-750515224/
 
 ## Histórico de versões
 

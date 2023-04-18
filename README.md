@@ -16,7 +16,7 @@ Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do 
 ### Link para a aplicação (LIVE)
 https://harleiaki-telemark-app-7-iq97r5.streamlit.app/
 
-## Utilização
+## Utilização 
 
 ### Dependencias
 

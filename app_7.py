@@ -220,13 +220,6 @@ def main():
             ax[1].set_title('Dados filtrados',
                             fontweight ="bold")
 
-        st.pyplot(plt)
-
-
-if __name__ == '__main__':
-	main()
-    
-
 
 
 

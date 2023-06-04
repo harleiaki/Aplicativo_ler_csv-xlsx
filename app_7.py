@@ -221,7 +221,11 @@ def main():
                             fontweight ="bold")
             
 
+        st.pyplot(plt)
 
+
+if __name__ == '__main__':
+	main()
 
 
 

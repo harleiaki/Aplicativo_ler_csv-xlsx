@@ -220,8 +220,7 @@ def main():
             ax[1].set_title('Dados filtrados',
                             fontweight ="bold")
             
-	if __name__ == '__main__':
-		main()
+
 
 
 

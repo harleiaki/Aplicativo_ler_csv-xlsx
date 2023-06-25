@@ -1,4 +1,3 @@
-
 # Imports
 import pandas            as pd
 import streamlit         as st
@@ -6,7 +5,6 @@ import seaborn           as sns
 import matplotlib.pyplot as plt
 from PIL                 import Image
 from io                  import BytesIO
-import xlsxwriter
 
 # Set no tema do seaborn para melhorar o visual dos plots
 custom_params = {"axes.spines.right": False, "axes.spines.top": False}
@@ -14,7 +12,7 @@ sns.set_theme(style="ticks", rc=custom_params)
 
 
 # Função para ler os dados
-@st.cache_data(show_spinner= True, experimental_allow_widgets=True)
+@st.cache(show_spinner= True, allow_output_mutation=True)
 def load_data(file_data):
     try:
         return pd.read_csv(file_data, sep=';')
@@ -22,7 +20,7 @@ def load_data(file_data):
         return pd.read_excel(file_data)
 
 # Função para filtrar baseado na multiseleção de categorias
-@st.cache_data(experimental_allow_widgets=True)
+@st.cache(allow_output_mutation=True)
 def multiselect_filter(relatorio, col, selecionados):
     if 'all' in selecionados:
         return relatorio
@@ -30,17 +28,17 @@ def multiselect_filter(relatorio, col, selecionados):
         return relatorio[relatorio[col].isin(selecionados)].reset_index(drop=True)
 
 # Função para converter o df para csv
-@st.cache_data
+@st.cache
 def convert_df(df):
     return df.to_csv(index=False).encode('utf-8')
 
 # Função para converter o df para excel
-@st.cache_data
+@st.cache
 def to_excel(df):
     output = BytesIO()
     writer = pd.ExcelWriter(output, engine='xlsxwriter')
     df.to_excel(writer, index=False, sheet_name='Sheet1')
-    writer.close()
+    writer.save()
     processed_data = output.getvalue()
     return processed_data
 
@@ -56,7 +54,12 @@ def main():
 
     # Título principal da aplicação
     st.write('# Análise dos dados de Telemarketing')
-
+    st.write('# Análise dos dados de Telemarketing')
+    st.write('# Análise dos dados de Telemarketing')
+    st.write('# Análise dos dados de Telemarketing')
+    st.write('# Análise dos dados de Telemarketing')
+    st.write('# Análise dos dados de Telemarketing')
+    st.write('# Análise dos dados de Telemarketing')
     st.markdown("---")
     
     # Apresenta a imagem na barra lateral da aplicação
@@ -218,17 +221,3 @@ def main():
             
             bank_target_perc.plot(kind='pie', autopct='%.2f', y='y', ax = ax[1])
             ax[1].set_title('Dados filtrados',
-                            fontweight ="bold")
-            
-
-        st.pyplot(plt)
-
-
-if __name__ == '__main__':
-	main()
-
-
-
-
-
-

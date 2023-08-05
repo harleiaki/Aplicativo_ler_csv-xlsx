@@ -54,7 +54,7 @@ def main():
     )
 
     # Título principal da aplicação
-    st.write('Filtro de Dados com Streamlit')
+    st.write('# Filtro de Dados com Streamlit')
     st.markdown("---")
     
     # Apresenta a imagem na barra lateral da aplicação

@@ -54,7 +54,7 @@ def main():
     )
 
     # Título principal da aplicação
-    st.write('# App MachineLearning para download de variáveis.')
+    st.write('Filtro de Dados')
     st.markdown("---")
     
     # Apresenta a imagem na barra lateral da aplicação

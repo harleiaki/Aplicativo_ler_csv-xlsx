@@ -91,47 +91,47 @@ def main():
             # PROFISSÕES
             jobs_list = bank.job.unique().tolist()
             jobs_list.append('all')
-            jobs_selected =  st.multiselect("Profissão", jobs_list, ['all'])
+            jobs_selected =  st.multiselect("Profissão", jobs_list, [''])
 
             # ESTADO CIVIL
             marital_list = bank.marital.unique().tolist()
             marital_list.append('all')
-            marital_selected =  st.multiselect("Estado civil", marital_list, ['all'])
+            marital_selected =  st.multiselect("Estado civil", marital_list, [''])
 
             # DEFAULT?
             default_list = bank.default.unique().tolist()
             default_list.append('all')
-            default_selected =  st.multiselect("Default", default_list, ['all'])
+            default_selected =  st.multiselect("Default", default_list, [''])
 
             
             # TEM FINANCIAMENTO IMOBILIÁRIO?
             housing_list = bank.housing.unique().tolist()
             housing_list.append('all')
-            housing_selected =  st.multiselect("Tem financiamento imob?", housing_list, ['all'])
+            housing_selected =  st.multiselect("Tem financiamento imob?", housing_list, [''])
 
             
             # TEM EMPRÉSTIMO?
             loan_list = bank.loan.unique().tolist()
             loan_list.append('all')
-            loan_selected =  st.multiselect("Tem empréstimo?", loan_list, ['all'])
+            loan_selected =  st.multiselect("Tem empréstimo?", loan_list, [''])
 
             
             # MEIO DE CONTATO?
             contact_list = bank.contact.unique().tolist()
             contact_list.append('all')
-            contact_selected =  st.multiselect("Meio de contato", contact_list, ['all'])
+            contact_selected =  st.multiselect("Meio de contato", contact_list, [''])
 
             
             # MÊS DO CONTATO
             month_list = bank.month.unique().tolist()
             month_list.append('all')
-            month_selected =  st.multiselect("Mês do contato", month_list, ['all'])
+            month_selected =  st.multiselect("Mês do contato", month_list, [''])
 
             
             # DIA DA SEMANA
             day_of_week_list = bank.day_of_week.unique().tolist()
             day_of_week_list.append('all')
-            day_of_week_selected =  st.multiselect("Dia da semana", day_of_week_list, ['all'])
+            day_of_week_selected =  st.multiselect("Dia da semana", day_of_week_list, [''])
 
 
                     

@@ -1,8 +1,5 @@
 
-
-https://user-images.githubusercontent.com/96266332/232571704-e3c9dfc5-a76d-47a5-923b-a904426b6f07.mp4
-
-
+https://github.com/harleiaki/Streamlit_ler_csv-xlsx/assets/96266332/5199105d-3e1a-4001-a7c7-9a8d725ff24a
 
 
 # Título do projeto

@@ -2,13 +2,13 @@
 https://github.com/harleiaki/Streamlit_ler_csv-xlsx/assets/96266332/5199105d-3e1a-4001-a7c7-9a8d725ff24a
 
 
-# Título do projeto
+# Filtro de dados com Streamlit
 
-Um simples resumo do uso/propósito do projeto.
+Esse projeto é um filtro de dados de clientes de um banco
 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Para o projeto funcionar é necessário fazer o download do arquivo bank-additional.csv para subir no site da aplicação
 
 ### Link para a aplicação (LIVE)
 https://harleiaki-aplicativo-ler-csv-xlsx-app-7-4m0qaf.streamlit.app/
@@ -18,7 +18,7 @@ https://harleiaki-aplicativo-ler-csv-xlsx-app-7-4m0qaf.streamlit.app/
 ### Dependencias
 
 * Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+* bibliotecas Pandas, Numpy, Seaborn, XlsxWriter, Scipy, matplotlib, Streamlit, altair e Protobuf
 
 ### Instalação
 

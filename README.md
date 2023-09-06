@@ -14,7 +14,7 @@ Esse projeto é um filtro de dados de clientes de um banco
 Para o projeto funcionar é necessário fazer o download do arquivo bank-additional.csv para subir no site da aplicação
 
 ### Link para a aplicação (LIVE)
-https://harleiaki-aplicativo-ler-csv-xlsx-app-7-4m0qaf.streamlit.app/
+https://csv-xlsx.onrender.com/
 
 ## Utilização 
 

@@ -1,4 +1,4 @@
-![image](https://github.com/harleiaki/Streamlit_ler_csv-xlsx/assets/96266332/eb9f2cbf-2144-4d6a-a84c-9338b2d3b7f1)![badge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![badge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ![badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 

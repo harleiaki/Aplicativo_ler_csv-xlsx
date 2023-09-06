@@ -51,9 +51,9 @@ https://www.linkedin.com/in/harlei-akira-750515224/
 
 ## Histórico de versões
 
-- Na versão do Streamlit pode haver erros com Seaborn por isso integrei a aplicação em dois sites.
-* https://harleiaki-aplicativo-ler-csv-xlsx-app-7-4m0qaf.streamlit.app/
-* https://csv-xlsx.onrender.com/
+* Na versão do Streamlit pode haver erros com Seaborn por isso integrei a aplicação em dois sites.
+- https://harleiaki-aplicativo-ler-csv-xlsx-app-7-4m0qaf.streamlit.app/
+- https://csv-xlsx.onrender.com/
 
 ## Licença de uso
 

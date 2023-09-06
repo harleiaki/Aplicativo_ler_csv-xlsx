@@ -35,8 +35,9 @@ Para o projeto funcionar é necessário fazer o download do arquivo bank-additio
 
 ### Instalação
 
-* Faça o download do arquivo csv "bank-additional"
-[bank-additional](https://github.com/harleiaki/Streamlit_ler_csv-xlsx/blob/main/bank-additional.csv)
+* Faça o download do arquivo csv "bank-additional" [bank-additional](https://github.com/harleiaki/Streamlit_ler_csv-xlsx/blob/main/bank-additional.csv)
+
+![Screenshot 2023-09-06 152310](https://github.com/harleiaki/Streamlit_ler_csv-xlsx/assets/96266332/5e6d5fb4-9961-4f32-b7e2-5c63645bb8a8)
 
 ### Executando o projeto
 

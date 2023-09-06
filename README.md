@@ -1,4 +1,4 @@
-![badge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![image](https://github.com/harleiaki/Streamlit_ler_csv-xlsx/assets/96266332/eb9f2cbf-2144-4d6a-a84c-9338b2d3b7f1)![badge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ![badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -42,6 +42,14 @@ Para o projeto funcionar é necessário fazer o download do arquivo bank-additio
 ### Executando o projeto
 
 * Suba no site em Browse files, como mostra no vídeo.
+
+![image](https://github.com/harleiaki/Streamlit_ler_csv-xlsx/assets/96266332/619d32ce-dd96-46e8-92e6-a9e5efb7a343)
+![image](https://github.com/harleiaki/Streamlit_ler_csv-xlsx/assets/96266332/5288aa0a-53f2-42ef-9697-944ddbe0b8ec)
+![image](https://github.com/harleiaki/Streamlit_ler_csv-xlsx/assets/96266332/9ea8524f-9cab-4b01-8a88-8b7e058869cd)
+![image](https://github.com/harleiaki/Streamlit_ler_csv-xlsx/assets/96266332/fdd4cbe9-47a5-4907-9be2-461351663797)
+
+
+
 
 ## Autores
 

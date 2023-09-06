@@ -14,34 +14,31 @@ Esse projeto é um filtro de dados de clientes de um banco
 Para o projeto funcionar é necessário fazer o download do arquivo bank-additional.csv para subir no site da aplicação
 
 ### Link para a aplicação (LIVE)
+https://harleiaki-aplicativo-ler-csv-xlsx-app-7-4m0qaf.streamlit.app/
 https://csv-xlsx.onrender.com/
 
 ## Utilização 
 
 ### Dependencias
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* bibliotecas Pandas, Numpy, Seaborn, XlsxWriter, Scipy, matplotlib, Streamlit, altair e Protobuf
+* prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
+- pandas==1.3.5
+- numpy==1.21.6
+- seaborn==0.12.2
+- XlsxWriter==3.1.2
+- scipy==1.7.3
+- matplotlib==3.5.3
+- streamlit==1.23.1
+- altair==5.0.1
+- protobuf==4.24.2
 
 ### Instalação
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+* Faça o download do arquivo csv "bank-additional"
 
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
-
-## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
+* Suba no site em Browse files, como mostra no vídeo.
 
 ## Autores
 
@@ -52,14 +49,14 @@ ex. https://www.linkedin.com/in/harlei-akira-750515224/
 
 ## Histórico de versões
 
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
-    * Primeira versão
+- Na versão do Streamlit pode haver erros com Seaborn por isso integrei a aplicação em dois sites.
+https://harleiaki-aplicativo-ler-csv-xlsx-app-7-4m0qaf.streamlit.app/
+https://csv-xlsx.onrender.com/
 
 ## Licença de uso
 
 Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
+- Esse projeto é de uso aberto.
 
 ## Fontes de inspiração
 

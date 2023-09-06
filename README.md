@@ -46,8 +46,7 @@ Para o projeto funcionar é necessário fazer o download do arquivo bank-additio
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-Harlei
-https://www.linkedin.com/in/harlei-akira-750515224/
+<a href="https://www.linkedin.com/in/harlei-akira" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Histórico de versões
 

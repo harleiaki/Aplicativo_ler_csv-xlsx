@@ -17,6 +17,8 @@ Para o projeto funcionar é necessário fazer o download do arquivo bank-additio
 https://harleiaki-aplicativo-ler-csv-xlsx-app-7-4m0qaf.streamlit.app/
 https://csv-xlsx.onrender.com/
 
+- 
+
 ## Utilização 
 
 ### Dependencias
@@ -44,8 +46,8 @@ https://csv-xlsx.onrender.com/
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Harlei
-ex. https://www.linkedin.com/in/harlei-akira-750515224/
+Harlei
+https://www.linkedin.com/in/harlei-akira-750515224/
 
 ## Histórico de versões
 
